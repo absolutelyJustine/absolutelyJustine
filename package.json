@@ -1,0 +1,23 @@
+{
+  "name": "absolutelyjustine",
+  "version": "1.0.0",
+  "description": "in which a site exists for me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/absolutelyJustine/absolutelyJustine.git"
+  },
+  "keywords": [
+    "personal-site",
+    "absolutelyJustine"
+  ],
+  "author": "Justine Starks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/absolutelyJustine/absolutelyJustine/issues"
+  },
+  "homepage": "https://github.com/absolutelyJustine/absolutelyJustine#readme"
+}
