@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="960acf06-8c6a-414f-b2ad-76d69e19bbf4" name="nfs_absolutelyJustine" url="http://ssh.phx.nearlyfreespeech.net">
+        <fileTransfer host="ssh.phx.nearlyfreespeech.net" port="22" rootFolder="/home/public" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
