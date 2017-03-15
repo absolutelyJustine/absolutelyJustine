@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/absolutelyJustine/absolutelyJustine#readme",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "materialize-css": "^0.98.0"
   }
 }
