@@ -1,13 +1,998 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8eab192-ac7c-40fa-9ac6-f72deeb28a61" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/styles/style.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="c8eab192-ac7c-40fa-9ac6-f72deeb28a61" name="Default" comment="updating">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/mkdirp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/rimraf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/accepts/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/accepts/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/accepts/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/accepts/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/accepts/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/array-flatten/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/array-flatten/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/array-flatten/array-flatten.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/array-flatten/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/balanced-match/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/balanced-match/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/balanced-match/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/balanced-match/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/balanced-match/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/block-stream/LICENCE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/block-stream/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/block-stream/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/block-stream/block-stream.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/block-stream/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/brace-expansion/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/brace-expansion/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/brace-expansion/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/concat-map/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/concat-map/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/concat-map/README.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/concat-map/example/map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/concat-map/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/concat-map/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/concat-map/test/map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/content-disposition/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/content-disposition/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/content-disposition/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/content-disposition/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/content-disposition/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/content-type/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/content-type/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/content-type/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/content-type/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/content-type/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cookie-signature/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cookie-signature/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cookie-signature/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cookie-signature/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cookie-signature/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cookie/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cookie/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cookie/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cookie/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/cookie/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/.coveralls.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/src/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/src/debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/debug/src/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/lib/browser/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/lib/compat/buffer-concat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/lib/compat/callsite-tostring.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/lib/compat/event-listener-count.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/lib/compat/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/depd/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/destroy/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/destroy/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/destroy/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/destroy/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ee-first/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ee-first/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ee-first/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ee-first/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/encodeurl/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/encodeurl/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/encodeurl/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/encodeurl/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/encodeurl/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/escape-html/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/escape-html/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/escape-html/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/escape-html/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/etag/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/etag/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/etag/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/etag/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/etag/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/lib/middleware/query.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/lib/request.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/lib/response.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/lib/router/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/lib/router/layer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/lib/router/route.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/lib/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/lib/view.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/finalhandler/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/finalhandler/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/finalhandler/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/finalhandler/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/finalhandler/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/forwarded/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/forwarded/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/forwarded/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/forwarded/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/forwarded/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fresh/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fresh/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fresh/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fresh/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fresh/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs.realpath/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs.realpath/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs.realpath/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs.realpath/old.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fs.realpath/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fstream/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fstream/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fstream/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fstream/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fstream/examples/filter-pipe.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fstream/examples/pipe.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fstream/examples/reader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fstream/examples/symlink-write.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fstream/fstream.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fstream/lib/abstract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fstream/lib/collect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fstream/lib/dir-reader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fstream/lib/dir-writer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fstream/lib/file-reader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fstream/lib/file-writer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fstream/lib/get-type.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fstream/lib/link-reader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fstream/lib/link-writer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fstream/lib/proxy-reader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fstream/lib/proxy-writer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fstream/lib/reader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fstream/lib/socket-reader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fstream/lib/writer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/fstream/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/glob/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/glob/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/glob/changelog.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/glob/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/glob/glob.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/glob/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/glob/sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graceful-fs/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graceful-fs/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graceful-fs/fs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graceful-fs/graceful-fs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graceful-fs/legacy-streams.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graceful-fs/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graceful-fs/polyfills.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/.jscsrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/Gruntfile.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/changelog.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/hammer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/hammer.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/hammer.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/hammer.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/src/expose.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/src/hammer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/src/hammer.prefix.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/src/hammer.suffix.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/src/input.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/src/input/mouse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/src/input/pointerevent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/src/input/singletouch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/src/input/touch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/src/input/touchmouse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/src/manager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/src/recognizer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/src/recognizers/attribute.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/src/recognizers/pan.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/src/recognizers/pinch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/src/recognizers/press.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/src/recognizers/rotate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/src/recognizers/swipe.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/src/recognizers/tap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/src/touchaction.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/src/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/manual/assets/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/manual/compute_touch_action.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/manual/input.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/manual/log.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/manual/multiple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/manual/nested.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/manual/simulator-googlemaps.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/manual/simulator.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/manual/touchaction.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/manual/visual.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/unit/assets/blanket.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/unit/assets/lodash.compat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/unit/assets/qunit.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/unit/assets/qunit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/unit/assets/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/unit/gestures/test_pan.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/unit/gestures/test_pinch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/unit/gestures/test_swipe.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/unit/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/unit/test_enable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/unit/test_events.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/unit/test_gestures.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/unit/test_hammer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/unit/test_jquery_plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/unit/test_multiple_taps.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/unit/test_nested_gesture_recognizers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/unit/test_propagation_bubble.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/unit/test_require_failure.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/unit/test_simultaneous_recognition.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/unit/test_utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/http-errors/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/http-errors/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/http-errors/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/http-errors/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/http-errors/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/inflight/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/inflight/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/inflight/inflight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/inflight/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/inherits/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/inherits/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/inherits/inherits.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/inherits/inherits_browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/inherits/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ipaddr.js/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ipaddr.js/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ipaddr.js/Cakefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ipaddr.js/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ipaddr.js/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ipaddr.js/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ipaddr.js/ipaddr.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ipaddr.js/lib/ipaddr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ipaddr.js/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ipaddr.js/src/ipaddr.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ipaddr.js/test/ipaddr.test.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/AUTHORS.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/dist/jquery.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/external/sizzle/dist/sizzle.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/.jshintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/jsonp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/load.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/parseJSON.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/parseXML.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/location.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/nonce.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/var/rquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/ajax/xhr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/attr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/classes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/prop.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/attributes/val.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/callbacks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/access.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/parseHTML.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/ready.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/core/var/rsingleTag.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/addGetHookIf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/adjustCSS.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/curCSS.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/defaultDisplay.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/hiddenVisibleSelectors.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/showHide.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/cssExpand.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/getStyles.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/isHidden.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/rmargin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/rnumnonpx.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/css/var/swap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/Data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/var/acceptData.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/var/dataPriv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/data/var/dataUser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/deferred.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/deprecated.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/dimensions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/effects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/effects/Tween.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/effects/animatedSelector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/event.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/alias.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/focusin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/event/trigger.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/exports/amd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/exports/global.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/intro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/_evalUrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/buildFragment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/getAll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/setGlobalEval.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rcheckableType.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rscriptType.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/var/rtagName.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/manipulation/wrapMap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/offset.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/outro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/queue.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/queue/delay.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/selector-native.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/selector-sizzle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/selector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/serialize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/findFilter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/dir.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/rneedsContext.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/traversing/var/siblings.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/arr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/class2type.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/concat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/document.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/documentElement.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/hasOwn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/indexOf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/pnum.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/push.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/rcssNum.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/rnotwhite.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/slice.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/var/toString.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jquery/src/wrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/CNAME" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/ISSUE_TEMPLATE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/_SpecRunner.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/badges.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/bin/jquery-2.1.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/bin/materialize-src-v0.98.0.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/bin/materialize-v0.98.0.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/bin/materialize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/bin/materialize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/breadcrumbs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/buttons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/cards.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/chips.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/collapsible.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/collections.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/color.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/css-transitions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/css/ghpages-materialize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/css/prism.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/dialogs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/dist/css/materialize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/dist/css/materialize.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/dist/fonts/roboto/Roboto-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/dist/fonts/roboto/Roboto-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/dist/fonts/roboto/Roboto-Bold.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/dist/fonts/roboto/Roboto-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/dist/fonts/roboto/Roboto-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/dist/fonts/roboto/Roboto-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/dist/fonts/roboto/Roboto-Light.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/dist/fonts/roboto/Roboto-Medium.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/dist/fonts/roboto/Roboto-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/dist/fonts/roboto/Roboto-Medium.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/dist/fonts/roboto/Roboto-Medium.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/dist/fonts/roboto/Roboto-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/dist/fonts/roboto/Roboto-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/dist/fonts/roboto/Roboto-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/dist/fonts/roboto/Roboto-Regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/dist/fonts/roboto/Roboto-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/dist/fonts/roboto/Roboto-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/dist/fonts/roboto/Roboto-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/dist/fonts/roboto/Roboto-Thin.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/dist/js/materialize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/dist/js/materialize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/dropdown.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/extras/noUiSlider/nouislider.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/extras/noUiSlider/nouislider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/extras/noUiSlider/nouislider.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/fab-toolbar-demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/fonts/roboto/Roboto-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/fonts/roboto/Roboto-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/fonts/roboto/Roboto-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/fonts/roboto/Roboto-Bold.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/fonts/roboto/Roboto-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/fonts/roboto/Roboto-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/fonts/roboto/Roboto-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/fonts/roboto/Roboto-Light.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/fonts/roboto/Roboto-Medium.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/fonts/roboto/Roboto-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/fonts/roboto/Roboto-Medium.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/fonts/roboto/Roboto-Medium.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/fonts/roboto/Roboto-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/fonts/roboto/Roboto-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/fonts/roboto/Roboto-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/fonts/roboto/Roboto-Regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/fonts/roboto/Roboto-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/fonts/roboto/Roboto-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/fonts/roboto/Roboto-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/fonts/roboto/Roboto-Thin.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/forms.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/fullscreen-slider-demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/getting-started.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/grid.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/helpers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/icons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/404.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/_footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/_head.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/_navbar.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/_scripts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/about.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/about/about_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/badges.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/breadcrumbs.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/buttons.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/cards.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/carousel.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/chips.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/collapsible.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/collections.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/color.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/css-transitions.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/dialogs.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/dropdown.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/footer.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/forms.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/fullscreen-slider-demo.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/getting-started.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/getting_started/getting_started_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/grid.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/helpers.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/icons.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/index.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/index/index_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/lunr.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/media-css.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/media.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/mobile.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/mobile/mobile_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/modals.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/navbar.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/404_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/badges_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/breadcrumbs_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/buttons_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/cards_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/carousel_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/chips_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/collapsible_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/collections_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/color_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/css-transitions_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/dialogs_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/dropdown_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/footer_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/forms_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/fullscreen_slider_demo_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/grid_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/helpers_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/icons_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/media-css_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/media_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/modals_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/navbar_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/pagination_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/parallax_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/parallax_demo_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/preloader_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/pushpin_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/pushpin_demo_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/sass_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/scrollfire_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/scrollspy_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/shadow_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/sideNav_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/table_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/tabs_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/transitions_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/typography_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/page-contents/waves_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/pagination.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/parallax-demo.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/parallax.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/parallax/parallax_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/preloader.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/pushpin-demo.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/pushpin.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/sass.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/scrollFire.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/scrollspy.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/search.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/showcase.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/showcase/showcase_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/sideNav.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/table.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/tabs.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/transitions.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/typography.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/waves.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/animation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/buttons.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/cards.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/character_counter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/chips.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/collapsible.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/date_picker/picker.date.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/date_picker/picker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/forms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/global.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/hammer.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/initial.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/jquery.easing.1.3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/jquery.hammer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/jquery.timeago.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/materialbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/materialize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/modal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/parallax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/prism.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/pushpin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/scrollFire.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/sideNav.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/slider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/tabs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/toasts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/transitions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/velocity.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/js/waves.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/media-css.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/media.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/mobile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/modals.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/navbar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/package.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/pagination.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/parallax-demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/parallax.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/preloader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/pushpin-demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/pushpin.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/res/MaterializeLogo-3.ai" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/res/MaterializeLogo-3.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/res/materialize.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/_style.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_badges.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_cards.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_carousel.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_chips.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_collapsible.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_color.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_dropdown.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_global.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_icons-material-design.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_materialbox.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_modal.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_navbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_normalize.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_prefixer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_preloader.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_roboto.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_sideNav.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_slider.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_table_of_contents.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_tabs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_toast.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_tooltip.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_transitions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_typography.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/_waves.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/date_picker/_default.date.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/date_picker/_default.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/date_picker/_default.time.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/forms/_checkboxes.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/forms/_file-input.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/forms/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/forms/_input-fields.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/forms/_radio-buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/forms/_range.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/forms/_select.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/components/forms/_switches.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/ghpages-materialize.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sass/materialize.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/scrollfire.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/scrollspy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/shadow.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/showcase.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/side-nav.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/sitemap.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/table.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/tabs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/templates/masonry-template/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/templates/masonry-template/background1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/templates/masonry-template/background2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/templates/masonry-template/background3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/templates/masonry-template/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/templates/masonry-template/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/templates/masonry-template/js/init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/templates/masonry-template/js/masonry.pkgd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/templates/masonry-template/preview.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/templates/parallax-template.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/templates/parallax-template/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/templates/parallax-template/background1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/templates/parallax-template/background2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/templates/parallax-template/background3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/templates/parallax-template/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/templates/parallax-template/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/templates/parallax-template/js/init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/templates/parallax-template/preview.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/templates/starter-template.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/templates/starter-template/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/templates/starter-template/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/templates/starter-template/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/templates/starter-template/js/init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/templates/starter-template/preview.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/test/html/badges.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/test/html/buttons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/test/html/cards.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/test/html/carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/test/html/chips.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/test/html/collapsible.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/test/html/dropdown.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/test/html/fixed_navbar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/test/html/forms.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/test/html/materialbox.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/test/html/multiple_modals.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/test/html/multiple_sidenav.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/test/html/overlayZindex.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/test/html/scrollfire.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/test/html/scrollspy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/test/html/tabs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/test/html/waves.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/test2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/tests/spec/autocomplete/autocompleteFixture.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/tests/spec/autocomplete/autocompleteSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/tests/spec/cards/cardsFixture.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/tests/spec/cards/cardsSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/tests/spec/chips/chipsFixture.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/tests/spec/chips/chipsSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/tests/spec/collapsible/collapsible.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/tests/spec/collapsible/collapsibleSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/tests/spec/dropdown/dropdownFixture.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/tests/spec/dropdown/dropdownSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/tests/spec/helper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/tests/spec/materialbox/materialboxFixture.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/tests/spec/materialbox/materialboxSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/tests/spec/scrollFire/scrollFireFixture.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/tests/spec/scrollFire/scrollFireSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/tests/spec/select/selectFixture.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/tests/spec/select/selectSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/tests/spec/sideNav/sideNavFixture.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/tests/spec/sideNav/sideNavSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/tests/spec/tabs/tabsFixture.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/tests/spec/tabs/tabsSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/tests/spec/toast/toastSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/tests/spec/tooltip/tooltipFixture.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/tests/spec/tooltip/tooltipSpec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/transitions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/typography.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/materialize-css/waves.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/media-typer/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/media-typer/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/media-typer/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/media-typer/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/media-typer/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/merge-descriptors/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/merge-descriptors/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/merge-descriptors/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/merge-descriptors/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/merge-descriptors/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/methods/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/methods/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/methods/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/methods/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/methods/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime-db/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime-db/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime-db/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime-db/db.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime-db/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime-db/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime-types/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime-types/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime-types/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime-types/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime-types/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime/build/build.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime/build/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime/cli.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime/mime.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mime/types.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimatch/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimatch/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimatch/minimatch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimatch/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/example/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/readme.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/test/dash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/test/default_bool.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/test/dotted.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/test/long.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/test/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/test/parse_modified.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/test/short.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/minimist/test/whitespace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mkdirp/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mkdirp/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mkdirp/bin/cmd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mkdirp/bin/usage.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mkdirp/examples/pow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mkdirp/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mkdirp/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mkdirp/readme.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/chmod.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/clobber.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/mkdirp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/opts_fs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/opts_fs_sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/perm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/perm_sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/race.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/rel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/return.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/return_sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/root.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/umask.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/mkdirp/test/umask_sync.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ms/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ms/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ms/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/ms/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/negotiator/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/negotiator/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/negotiator/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/negotiator/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/negotiator/lib/charset.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/negotiator/lib/encoding.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/negotiator/lib/language.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/negotiator/lib/mediaType.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/negotiator/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/node-archiver/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/node-archiver/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/node-archiver/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/node-archiver/bin/create_dist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/node-archiver/bin/create_dist.test" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/node-archiver/lib/archiver.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/node-archiver/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/on-finished/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/on-finished/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/on-finished/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/on-finished/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/on-finished/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/once/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/once/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/once/once.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/once/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/parseurl/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/parseurl/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/parseurl/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/parseurl/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/parseurl/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/path-is-absolute/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/path-is-absolute/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/path-is-absolute/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/path-is-absolute/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/path-to-regexp/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/path-to-regexp/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/path-to-regexp/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/path-to-regexp/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/path-to-regexp/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/proxy-addr/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/proxy-addr/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/proxy-addr/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/proxy-addr/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/proxy-addr/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/qs/.eslintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/qs/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/qs/.jscs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/qs/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/qs/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/qs/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/qs/dist/qs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/qs/lib/formats.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/qs/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/qs/lib/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/qs/lib/stringify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/qs/lib/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/qs/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/qs/test/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/qs/test/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/qs/test/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/qs/test/stringify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/qs/test/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/range-parser/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/range-parser/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/range-parser/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/range-parser/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/range-parser/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rimraf/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rimraf/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rimraf/bin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rimraf/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/rimraf/rimraf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/send/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-static/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-static/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-static/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-static/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/serve-static/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/setprototypeof/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/setprototypeof/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/setprototypeof/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/setprototypeof/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/statuses/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/statuses/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/statuses/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/statuses/codes.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/statuses/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/statuses/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/examples/extracter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/examples/packer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/lib/buffer-entry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/lib/entry-writer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/lib/entry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/lib/extended-header-writer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/lib/extended-header.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/lib/extract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/lib/global-header-writer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/lib/header.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/lib/pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/lib/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/tar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/test/00-setup-fixtures.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/test/cb-never-called-1.0.1.tgz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/test/dir-normalization.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/test/dir-normalization.tar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/test/error-on-broken.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/test/extract-move.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/test/extract.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/test/fixtures.tgz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/test/header.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/test/pack-no-proprietary.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/test/pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/test/parse-discard.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/test/parse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tar/test/zz-cleanup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/type-is/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/type-is/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/type-is/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/type-is/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/type-is/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/unpipe/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/unpipe/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/unpipe/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/unpipe/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/unpipe/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/utils-merge/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/utils-merge/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/utils-merge/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/utils-merge/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/utils-merge/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vary/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vary/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vary/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vary/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/vary/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wrappy/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wrappy/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wrappy/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/wrappy/wrappy.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.eot" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.ttf" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.woff" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.woff2" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.eot" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.ttf" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.woff" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.woff2" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.eot" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.ttf" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.woff" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.woff2" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.eot" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.ttf" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.woff" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.woff2" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.eot" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.ttf" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.woff" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.woff2" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/materialize-css/dist/fonts/roboto/Roboto-Bold.ttf" afterPath="$PROJECT_DIR$/node_modules/materialize-css/dist/fonts/roboto/Roboto-Bold.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/materialize.css" afterPath="$PROJECT_DIR$/css/materialize.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/materialize.min.css" afterPath="$PROJECT_DIR$/css/materialize.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/materialize.js" afterPath="$PROJECT_DIR$/js/materialize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/materialize.min.js" afterPath="$PROJECT_DIR$/js/materialize.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/hammerjs/tests/unit/assets/jquery.min.js" afterPath="$PROJECT_DIR$/node_modules/hammerjs/tests/unit/assets/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/materialize-css/jade/shadow.jade" afterPath="$PROJECT_DIR$/node_modules/materialize-css/jade/shadow.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/materialize-css/test/html/pushpin.html" afterPath="$PROJECT_DIR$/node_modules/materialize-css/test/html/pushpin.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/tar/examples/reader.js" afterPath="$PROJECT_DIR$/node_modules/tar/examples/reader.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
+    <list id="a09a2498-972a-42ab-a749-c17ae24c23ad" name="New changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -27,8 +1012,28 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+            <state relative-caret-position="203">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;960acf06-8c6a-414f-b2ad-76d69e19bbf4&gt;/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -69,8 +1074,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="1440" />
-    <option name="height" value="815" />
+    <option name="width" value="1920" />
+    <option name="height" value="1058" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -110,6 +1115,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -125,7 +1131,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -134,7 +1139,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
@@ -211,15 +1216,20 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c8eab192-ac7c-40fa-9ac6-f72deeb28a61" name="Default" comment="" />
+      <changelist id="a09a2498-972a-42ab-a749-c17ae24c23ad" name="New changelist" comment="" />
       <created>1489542018617</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1489542018617</updated>
       <workItem from="1489542020785" duration="2869000" />
-      <workItem from="1489546337559" duration="344000" />
+      <workItem from="1489546337559" duration="927000" />
+      <workItem from="1495646337213" duration="1109000" />
     </task>
     <servers>
       <GitHub shared="false" url="https://github.com">
@@ -241,42 +1251,88 @@
     </servers>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3213000" />
+    <option name="totallyTimeSpent" value="4905000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="815" extended-state="0" />
+    <frame x="0" y="22" width="1920" height="1058" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297587" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Regex Tester" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25239617" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297587" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="updating" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
+  <component name="atlassian-ide-plugin-workspace-issues">
+    <option name="view">
+      <JiraViewConfigurationBean>
+        <option name="viewFilterId" value="" />
+      </JiraViewConfigurationBean>
+    </option>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -285,21 +1341,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/style.css" />
     <entry file="file://$PROJECT_DIR$/index.pug" />
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/app.js" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -309,13 +1352,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="regexState">
+    <option name="map">
+      <map>
+        <entry key="flags" value="0" />
+        <entry key="mode" value="0" />
+        <entry key="regex" value="(19||20)\d\d([- /.])(0[1-9]||1[012])\2(0[1-9]||[12][0-9]||3[01])" />
+        <entry key="text" value="1900-01-01 2007/08/13 1900.01.01 1900 01 01 1900-01.01 1900 13 01 1900 02 31" />
+      </map>
+    </option>
   </component>
 </project>

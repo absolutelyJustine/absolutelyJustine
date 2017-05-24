@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="nfs_absolutelyJustine" />
+  <component name="PublishConfigData" serverName="nfs_absolutelyJustine" uploadOnCheckin="960acf06-8c6a-414f-b2ad-76d69e19bbf4">
+    <option name="myUploadOnCheckinName" value="nfs_absolutelyJustine" />
+  </component>
 </project>
