@@ -49,7 +49,7 @@ ul.sidenav li a {
 
 ul.sidenav li a.active {
   background-color: #4CAF50;
-  color: white;
+  color: maroon;
 }
 
 ul.sidenav li a:hover:not(.active) {
@@ -71,6 +71,32 @@ margin-left: 10%;
 
 .content-style {max-width:2000px;margin-top:46px}
 
+.title {
+    padding-top:10%;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    text-shadow: 0px 0px 2px black;
+
+}
+.fit {
+    margin-top: 10%;
+    height: auto;
+    background-color: rgba(40, 40, 35, .5);
+}
+.welcome {
+    color: floralwhite;
+    font-size: 150%;
+}
+.position {
+    font-size: 300%;
+}
+.home-page {
+    background: url("./images/waves on rocks.jpg") no-repeat center top;
+    background-size: cover;
+    height: 100vh;
+    width: auto;
+}
 
 @media screen and (max-width: 900px) {
   ul.sidenav {
