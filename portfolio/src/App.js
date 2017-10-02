@@ -6,7 +6,6 @@ import {
 } from 'react-router-dom'
 import Home from './views/Home'
 import UIUX from './views/UIUX'
-import About from './views/About'
 import Artwork from './views/Artwork'
 import Code from './views/Code'
 
@@ -41,28 +40,29 @@ export default class App extends React.Component {
                         <div className="w3-bar darkGray w3-card-2">
                             <a className="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right"
                                href="javascript:void(0)" onClick={handleClick}><i className="fa fa-bars"></i></a>
+
                             <Link to="/" className="w3-bar-item w3-button w3-padding-large">Home</Link>
-                            <Link to="/about"
-                                  className="w3-bar-item w3-button w3-padding-large w3-hide-small">About</Link>
                             <Link to="/UIUX"
                                   className="w3-bar-item w3-button w3-padding-large w3-hide-small">UI/UX</Link>
                             <Link to="/artwork"
                                   className="w3-bar-item w3-button w3-padding-large w3-hide-small">Artwork</Link>
                             <Link to="/code"
                                   className="w3-bar-item w3-button w3-padding-large w3-hide-small">Code</Link>
+                            <div className="page-title">Absolutely Justine</div>
                         </div>
                     </div>
                     <div id="navBar" className="w3-bar-block darkGray w3-hide w3-hide-large w3-hide-medium w3-top">
-                        <Link to="/" className="w3-bar-item w3-button w3-padding-large" onClick={handleClick2}>Home</Link>
-                        <Link to="/about" className="w3-bar-item w3-button w3-padding-large" onClick={handleClick2}>About</Link>
-                        <Link to="/UIUX" className="w3-bar-item w3-button w3-padding-large" onClick={handleClick2}>UI/UX</Link>
+                        <Link to="/" className="w3-bar-item w3-button w3-padding-large"
+                              onClick={handleClick2}>Home</Link>
+                        <Link to="/UIUX" className="w3-bar-item w3-button w3-padding-large"
+                              onClick={handleClick2}>UI/UX</Link>
                         <Link to="/artwork" className="w3-bar-item w3-button w3-padding-large" onClick={handleClick2}>Artwork</Link>
-                        <Link to="/code" className="w3-bar-item w3-button w3-padding-large" onClick={handleClick2}>Code</Link>
+                        <Link to="/code" className="w3-bar-item w3-button w3-padding-large"
+                              onClick={handleClick2}>Code</Link>
                     </div>
 
 
                     <Route exact path="/" component={Home}/>
-                    <Route path="/about" component={About}/>
                     <Route path="/UIUX" component={UIUX}/>
                     <Route path="/artwork" component={Artwork}/>
                     <Route path="/code" component={Code}/>

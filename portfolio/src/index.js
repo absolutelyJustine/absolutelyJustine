@@ -7,6 +7,6 @@ import registerServiceWorker from './registerServiceWorker';
 
 
 Radium(
-    ReactDOM.render(<App />, document.getElementById('root'))
+    ReactDOM.render(<App/>, document.getElementById('root'))
 );
 registerServiceWorker();
