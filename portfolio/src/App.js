@@ -38,8 +38,8 @@ export default class App extends React.Component {
                 <div>
                     <div className="w3-top">
                         <div className="w3-bar darkGray w3-card-2">
-                            <a className="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right"
-                               href="javascript:void(0)" onClick={handleClick}><i className="fa fa-bars"></i></a>
+                            <button className="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right"
+                                onClick={handleClick}><i className="fa fa-bars"></i></button>
 
                             <Link to="/" className="w3-bar-item w3-button w3-padding-large">Home</Link>
                             <Link to="/UIUX"
